@@ -1,24 +1,7 @@
 # Multiverze Lay-Z
 
-## Project setup
-```
-npm install
-```
+Setup Tool for Multiverze Multiviewer
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Description
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This Tool can be used to more easily set up full rows of Streams on the UXA Multiviewer. This was made, because individually setting up streams took a long time and this tool does away with a lot of the manual parts, by setting up more than one channel with different resolutions, depending on our layout of the MV.
